@@ -25,7 +25,6 @@ export class TableVirtualScrollStrategy implements VirtualScrollStrategy {
   }
 
   public detach(): void {
-    // no-op
   }
 
   public onContentScrolled(): void {
@@ -39,15 +38,12 @@ export class TableVirtualScrollStrategy implements VirtualScrollStrategy {
   }
 
   public onContentRendered(): void {
-    // no-op
   }
 
   public onRenderedOffsetChanged(): void {
-    // no-op
   }
 
   public scrollToIndex(index: number, behavior: ScrollBehavior): void {
-    // no-op
   }
 
   public setScrollHeight(rowHeight: number, headerHeight: number) {
