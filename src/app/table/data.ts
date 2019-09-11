@@ -55,6 +55,7 @@ export interface PeriodicElement {
     {position: 48, name: 'Argon', weight: 39.948, symbol: 'Ar'},
     {position: 49, name: 'Potassium', weight: 39.0983, symbol: 'K'},
     {position: 50, name: 'Calcium', weight: 40.078, symbol: 'Ca'}
+      
   ];
 
   export class DataProvider{
